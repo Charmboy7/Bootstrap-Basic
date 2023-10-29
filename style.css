@@ -1,0 +1,20 @@
+.bgimg{
+
+    background-color: #a19b9b;
+background-image: url("/img.png");
+background-position: 0px 30px;
+background-size: cover;
+}
+
+h5{
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+   
+}
+
+#top{
+    color:antiquewhite;
+    font-style: italic;
+    background-image: url("/img.png");
+}
